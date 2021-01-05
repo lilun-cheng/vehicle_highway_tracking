@@ -1,0 +1,12 @@
+tensorflow==2.0.3
+numpy~=1.18.5
+opencv-python==4.1.1.26
+lxml
+tqdm
+seaborn~=0.11.0
+pillow~=8.0.1
+matplotlib~=3.3.3
+absl
+
+pika~=1.1.0
+scipy~=1.5.4
